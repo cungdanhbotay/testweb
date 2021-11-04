@@ -26,7 +26,7 @@
             {
             ?>
 			<tr>
-              <td><?php echo $row["id"];?></td>
+              <td><?php echo $row["aaa"];?></td>
               <td><?php echo $row["name"];?></td>
               <td><?php echo $row["email"];?></td>
               <td><?php echo $row["age"];?></td>
